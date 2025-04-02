@@ -7,6 +7,7 @@
 - [March 06 - 2025 Programs](./06-03-25/06-03-25.md)
 - [March 13 - 2025 Programs](./13-03-25/13-03-25.md)
 - [March 20 - 2025 Programs](./20-03-25/20-03-25.md)
+- [March 27 - 2025 Programs](./20-03-25/27-03-25.md)
 
 ## Resources
 
