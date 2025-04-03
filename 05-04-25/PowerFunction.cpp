@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-int square(int number, int times)
+int power(int number, int times)
 {
     int i, result = 1;
 
@@ -23,7 +23,7 @@ int main()
     printf("Enter The Number Of Times To Multiply : ");
     scanf("%d", &times);
 
-    int result = square(num, times);
+    int result = power(num, times);
     printf("The Result Is : %d", result);
 
     return 0;
