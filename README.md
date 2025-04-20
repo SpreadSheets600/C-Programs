@@ -1,6 +1,6 @@
 # Programming Repository
 
-If you want a study checklist ( list to study what ) check out ~ Study [Checklist](https://github.com/SpreadSheets600/C-Programs/blob/master/CHECKLIST.md)
+If you want a study checklist ( list to study what ) check out ~ [Study Checklist](https://github.com/SpreadSheets600/C-Programs/blob/master/CHECKLIST.md)
 
 ## Contents
 
