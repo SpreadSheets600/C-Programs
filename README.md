@@ -1,5 +1,7 @@
 # Programming Repository
 
+If you want a checklist ( list to study what ) check out ~ Study [Checklist](https://github.com/SpreadSheets600/C-Programs/blob/master/CHECKLIST.md)
+
 ## Contents
 
 - [February 20 - 2025 Programs](./20-02-25/20-02-25.md)
