@@ -10,8 +10,10 @@ If you want a study checklist ( list to study what ) check out ~ [Study Checklis
 - [March 13 - 2025 Programs](./13-03-25/13-03-25.md)
 - [March 20 - 2025 Programs](./20-03-25/20-03-25.md)
 - [April 05 - 2025 Programs](./05-04-25/05-04-25.md)
+- [April 24 - 2025 Programs](./24-04-25/24-04-25.md)
 
 - [Additional Questions](./Additional%20Programs/Additional.md)
+- [April 17 - 2025 Programs](./17-04-25/17-04-25.md) (Do Not Write These)
 
 ## Resources
 
