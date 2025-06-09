@@ -24,6 +24,9 @@ The [Notes](./Notes) directory contains reference material:
 - [Important Algorithms](./Algorithms/Algorithms.md)
 - [Number System Conversion](Conversions.md)
 
+- [Important Problems](Problems.md)
+- [Important Questions](Questions.md)
+
 ## How to Use
 
 1. Navigate to the date folder for the specific session you're interested in
