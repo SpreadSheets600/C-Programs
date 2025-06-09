@@ -1,8 +1,8 @@
 # Algorithms Summary
 
----
-
 ## Linear Search
+
+[Full Code](LinearSearch.cpp)
 
 **Description:**  
 Linear search is the simplest searching algorithm that checks each element in the array sequentially from the beginning until the target element is found or the end of the array is reached.
@@ -31,6 +31,8 @@ for (int i = 0; i <= arr_len; i++) {
 ---
 
 ## Binary Search
+
+[Full Code](BinarySearch.cpp)
 
 **Description:**  
 Binary search is an efficient searching algorithm that works only on sorted arrays. It uses the divide-and-conquer approach by repeatedly dividing the search space in half.
@@ -61,6 +63,8 @@ while (start <= end) {
 
 ## Bubble Sort
 
+[Full Code](BubbleSort.cpp)
+
 **Description:**  
 Bubble sort is a simple comparison-based sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
@@ -90,6 +94,8 @@ for (int i = 0; i < n - 1; i++)
 ---
 
 ## Selection Sort
+
+[Full Code](SelectionSort.cpp)
 
 **Description:**  
 Selection sort divides the array into two parts: sorted and unsorted. It repeatedly finds the minimum (or maximum) element from the unsorted portion and places it at the beginning of the unsorted portion, effectively growing the sorted portion by one element.
@@ -125,6 +131,8 @@ for (int i = 0; i < n - 1; i++) {
 
 ## Quick Sort
 
+[Full Code](QuicSort.cpp)
+
 **Description:**  
 Quick sort is a highly efficient divide-and-conquer sorting algorithm that works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays according to whether they are less than or greater than the pivot.
 
@@ -151,6 +159,8 @@ void quickSort(int arr[], int low, int high) {
 ---
 
 ## Merge Sort
+
+[Full Code](MergeSort.cpp)
 
 **Description:**  
 Merge sort is a stable, divide-and-conquer sorting algorithm that divides the array into two halves, recursively sorts each half, and then merges the sorted halves back together.

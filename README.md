@@ -21,6 +21,7 @@ If you want a study checklist ( list to study what ) check out ~ [Study Checklis
 The [Notes](./Notes) directory contains reference material:
 
 - [C Programming Notes](./Notes/CNotes.pdf)
+- [Important Algorithms](./Algorithms/Algorithms.md)
 
 ## How to Use
 
