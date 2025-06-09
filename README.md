@@ -22,6 +22,7 @@ The [Notes](./Notes) directory contains reference material:
 
 - [C Programming Notes](./Notes/CNotes.pdf)
 - [Important Algorithms](./Algorithms/Algorithms.md)
+- [Number System Conversion](Conversions.md)
 
 ## How to Use
 
