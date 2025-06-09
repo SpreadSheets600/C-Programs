@@ -111,14 +111,25 @@ $16_8 = 1 \times 8^1 + 6 \times 8^0 = 8 + 6 = 14_{10}$
 ## Video Tutorials
 
 [Binary → Decimal](https://youtu.be/6Tt-RA6KD30?si=Awqnu7tpnThzcUZL)
+
 [Binary → Octal](https://youtu.be/urasJ3jx08I?si=QzAfDgDAZ8j8Fnoh)
+
 [Binary → Hexadecimal](https://youtu.be/hGsJQ6KtBfI?si=pf0wPPFqdduuwqj4)
+
 [Decimal → Octal](https://youtu.be/1J89-aWI-5Y?si=mTfi5y66JjZYkqxG)
+
 [Decimal → Hexadecimal](https://youtu.be/uVpQ9pPskNI?si=zfd879T2Wtbwfzz0)
+
 [Decimal → Binary](https://youtu.be/VRNc6uyHhys?si=_44Jd9WTrp_UKuFh)
+
 [Hexadecimal → Octal](https://youtu.be/s9kwJ03uzmE?si=-9LoE3ITDMjTjfk7)
+
 [Hexadecimal → Binary](https://youtu.be/WI6Uvci2p7E?si=RNc7Q5-F03oWxQYA)
+
 [Hexadecimal → Decimal](https://youtu.be/1tHgs0mrZ5I?si=MVDtCVSnH17Y92u4)
+
 [Octal → Binary](https://youtu.be/urasJ3jx08I?si=QzAfDgDAZ8j8Fnoh)
+
 [Octal → Hexadecimal](https://youtu.be/s9kwJ03uzmE?si=-9LoE3ITDMjTjfk7)
+
 [Octal → Decimal](https://youtu.be/6WGTf0fg4zA?si=MNf1tQWyBgVILK9G)
