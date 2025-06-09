@@ -8,7 +8,7 @@ int main()
 
     int arr_len = sizeof(arr) / sizeof(arr[0]);
 
-    for (int i = 0; i <= arr_len; i++)
+    for (int i = 0; i < arr_len; i++)
     {
         if (arr[i] == key)
         {
