@@ -1,0 +1,69 @@
+site_name: C DSA Programs
+docs_dir: .github/docs
+theme:
+  name: material
+  palette:
+  - scheme: default
+    primary: indigo
+    accent: pink
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - scheme: slate
+    primary: indigo
+    accent: pink
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+  features:
+  - navigation.instant
+  - navigation.expand
+  - navigation.sections
+  - navigation.path
+  - navigation.prune
+  - search.highlight
+  - search.suggest
+  - content.code.copy
+markdown_extensions:
+- admonition
+- codehilite
+- footnotes
+- tables
+- toc
+- pymdownx.highlight:
+    anchor_linenums: true
+    linenums: true
+    linenums_style: table
+    use_pygments: true
+- pymdownx.superfences
+extra_css:
+- assets/extra.css
+plugins:
+- search
+- offline
+- tags
+- table-reader
+- mkdocs-jupyter:
+    include:
+    - '*.ipynb'
+repo_url: https://github.com/SpreadSheets600/C-DSA-Programs
+repo_name: C-DSA-Programs
+nav:
+- Home: ./README.md
+- LinkedList: ./LinkedList.md
+- 04-08-2025:
+  - 04-08-2025: 04-08-2025/README.md
+  - GlobalStack: 04-08-2025/GlobalStack.md
+  - LocalStack: 04-08-2025/LocalStack.md
+- 11-08-2025:
+  - 11-08-2025: 11-08-2025/README.md
+  - StringOperations: 11-08-2025/StringOperations.md
+- 24-07-2025:
+  - 24-07-2025: 24-07-2025/README.md
+  - DynamicLinearSearch: 24-07-2025/DynamicLinearSearch.md
+  - DynamicLinearSearchPointer: 24-07-2025/DynamicLinearSearchPointer.md
+  - StaticLinearSearch: 24-07-2025/StaticLinearSearch.md
+- Notes:
+  - AsymptoticNotation: Notes/AsymptoticNotation.md
+  - LinearSearch: Notes/LinearSearch.md
+  - Stack: Notes/Stack.md
